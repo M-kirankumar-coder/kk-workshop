@@ -1,0 +1,50 @@
+body
+{ 
+background-image: url(https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80);
+float: unset;
+}
+h1
+{ font-style: italic; font-family: fantasy;
+color: slategray;background-color: thistle;}
+#p1
+{background-color:skyblue;
+text-align: justify;
+width:200px ;}
+.c1
+{color: rgb(218, 188, 218);background-color: violet;font-family: fantasy;font-size: medium;font-variant: small-caps;line-height: inherit;}
+table,th,td
+{border: 1px solid black;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
